@@ -1,4 +1,4 @@
-# 🏎️ F1 Race Outcome Predictor: Grid to Checkered Flag
+# 🏎️ F1 Points Finish Predictor: Grid to Checkered Flag
 
 ## 📌 Project Overview
 
